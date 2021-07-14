@@ -1,0 +1,18 @@
+# ======================================================
+#  CUSTOM IGNORE
+# ======================================================
+assets/benchmarks/
+node_modules/
+lib/
+dist/
+
+package-lock.json
+*.log
+
+#----
+# COMPILED FILES
+#----
+*.js
+*.js.map
+*.d.ts
+*.d.ts.map
